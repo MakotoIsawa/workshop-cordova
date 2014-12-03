@@ -1,1 +1,1 @@
-http://ccoenraets.github.io/cordova-tutorial/create-cordova-project.html
+http://ccoenraets.github.io/cordova-tutorial/single-page-app.html
