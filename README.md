@@ -1,2 +1,2 @@
-http://ccoenraets.github.io/cordova-tutorial/handlebars-templates.html
-は完了してます。
+http://ccoenraets.github.io/cordova-tutorial/creating-view-classes.html
+CH9は完了してます。
